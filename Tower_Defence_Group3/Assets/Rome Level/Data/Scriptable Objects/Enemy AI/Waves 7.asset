@@ -24,11 +24,11 @@ MonoBehaviour:
     aiCount: 7
     spawnRate: 0.6
   - aiPrefab: {fileID: 3878116550320104922, guid: fe651d449dee9464ba3328fc34ceddf9, type: 3}
-    aiCount: 7
+    aiCount: 8
     spawnRate: 0.6
   - aiPrefab: {fileID: 3878116550320104922, guid: 7e6dbbd7c1a7beb428e4c0a46b1c115f, type: 3}
-    aiCount: 7
+    aiCount: 8
     spawnRate: 0.6
   - aiPrefab: {fileID: 3878116550320104922, guid: 7e6dbbd7c1a7beb428e4c0a46b1c115f, type: 3}
-    aiCount: 7
+    aiCount: 8
     spawnRate: 0.6
