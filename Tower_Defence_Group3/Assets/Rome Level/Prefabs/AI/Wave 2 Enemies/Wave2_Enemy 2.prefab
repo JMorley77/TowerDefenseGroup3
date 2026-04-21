@@ -209,7 +209,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   healthBar: {fileID: 1647361206092172627}
   healthBar2: {fileID: 4599639573682810525}
-  buff: 1
+  buff: 0
   health: 35
   damage: 6
   value: 10

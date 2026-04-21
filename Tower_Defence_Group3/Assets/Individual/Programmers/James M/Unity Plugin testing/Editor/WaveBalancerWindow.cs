@@ -242,6 +242,8 @@ public class WaveBalancerWindow : EditorWindow
                 float newHealth = EditorGUI.FloatField(new Rect(row.x + 110f, row.y, col - 4, 18), ctrl.health);
                 int newDamage = EditorGUI.IntField(new Rect(row.x + 110f + col, row.y, col - 4, 18), ctrl.damage);
                 int newValue = EditorGUI.IntField(new Rect(row.x + 110f + col * 2f, row.y, col - 4, 18), ctrl.value);
+                Buffs newBuff = (Buffs)EditorGUI.EnumFlagsField(
+                                       new Rect(row.x + 110f + col * 3f, row.y, col - 4, 18), ctrl.buff);
 
                 if (EditorGUI.EndChangeCheck())
                 {
@@ -249,22 +251,9 @@ public class WaveBalancerWindow : EditorWindow
                     ctrl.health = newHealth;
                     ctrl.damage = newDamage;
                     ctrl.value = newValue;
+                    ctrl.buff = newBuff;
                     EditorUtility.SetDirty(ctrl);
                 }
-
-                string BuffLabel(Buffs b)
-                {
-                    if (b == Buffs.None) return "None";
-                    var parts = new List<string>();
-                    if (b.HasFlag(Buffs.Speed)) parts.Add("Spd");
-                    if (b.HasFlag(Buffs.Commander)) parts.Add("Cmd");
-                    if (b.HasFlag(Buffs.SecondChance)) parts.Add("2nd");
-                    return string.Join("+", parts);
-                }
-
-                EditorGUI.LabelField(
-                    new Rect(row.x + 110f + col * 3f, row.y, col, 18),
-                    BuffLabel(ctrl.buff), ms);
             }
 
             EditorGUILayout.Space(4);
