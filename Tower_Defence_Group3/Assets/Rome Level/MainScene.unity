@@ -6349,7 +6349,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   moneyText: {fileID: 901220932}
   amount: 20
-  currency: 200
+  currency: 100
 --- !u!1001 &368690300
 PrefabInstance:
   m_ObjectHideFlags: 0

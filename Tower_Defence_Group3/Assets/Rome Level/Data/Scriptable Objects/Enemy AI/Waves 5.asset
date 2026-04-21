@@ -15,23 +15,23 @@ MonoBehaviour:
   mixGroups: 0
   aiGroups:
   - aiPrefab: {fileID: 3878116550320104922, guid: 6341baa6c0b4f6047a76c7788c87a060, type: 3}
-    aiCount: 1
-    spawnRate: 5
+    aiCount: 6
+    spawnRate: 0.6
   - aiPrefab: {fileID: 3878116550320104922, guid: 3f47851ed04aa034a811ffa72fbf8b02, type: 3}
-    aiCount: 1
-    spawnRate: 5
+    aiCount: 6
+    spawnRate: 0.6
   - aiPrefab: {fileID: 3878116550320104922, guid: 3f47851ed04aa034a811ffa72fbf8b02, type: 3}
-    aiCount: 1
-    spawnRate: 5
+    aiCount: 6
+    spawnRate: 0.6
   - aiPrefab: {fileID: 3878116550320104922, guid: 83372ada8b215d34594b47fbab1453b7, type: 3}
-    aiCount: 1
-    spawnRate: 5
+    aiCount: 6
+    spawnRate: 0.6
   - aiPrefab: {fileID: 3878116550320104922, guid: 83372ada8b215d34594b47fbab1453b7, type: 3}
-    aiCount: 1
-    spawnRate: 5
+    aiCount: 6
+    spawnRate: 0.6
   - aiPrefab: {fileID: 3878116550320104922, guid: 83372ada8b215d34594b47fbab1453b7, type: 3}
-    aiCount: 1
-    spawnRate: 5
+    aiCount: 6
+    spawnRate: 0.6
   - aiPrefab: {fileID: 3878116550320104922, guid: 83372ada8b215d34594b47fbab1453b7, type: 3}
-    aiCount: 1
-    spawnRate: 5
+    aiCount: 6
+    spawnRate: 0.6

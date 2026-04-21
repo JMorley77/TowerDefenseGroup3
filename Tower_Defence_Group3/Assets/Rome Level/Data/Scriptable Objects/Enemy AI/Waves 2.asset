@@ -15,17 +15,17 @@ MonoBehaviour:
   mixGroups: 0
   aiGroups:
   - aiPrefab: {fileID: 3878116550320104922, guid: d0bc8d4a45e53fa4d87f5a2a2963e994, type: 3}
-    aiCount: 8
-    spawnRate: 2
+    aiCount: 4
+    spawnRate: 0.8
   - aiPrefab: {fileID: 3878116550320104922, guid: d0bc8d4a45e53fa4d87f5a2a2963e994, type: 3}
-    aiCount: 8
-    spawnRate: 2
+    aiCount: 4
+    spawnRate: 0.8
   - aiPrefab: {fileID: 3878116550320104922, guid: b42edbe78a6373640bc7f7b0074813bd, type: 3}
-    aiCount: 8
-    spawnRate: 2
+    aiCount: 4
+    spawnRate: 0.8
   - aiPrefab: {fileID: 3878116550320104922, guid: b42edbe78a6373640bc7f7b0074813bd, type: 3}
-    aiCount: 8
-    spawnRate: 1
+    aiCount: 4
+    spawnRate: 0.8
   - aiPrefab: {fileID: 3878116550320104922, guid: ce2b201a8ea748847a98f090a4503736, type: 3}
     aiCount: 5
-    spawnRate: 1
+    spawnRate: 0.8

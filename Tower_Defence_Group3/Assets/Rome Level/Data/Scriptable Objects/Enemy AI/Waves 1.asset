@@ -15,14 +15,14 @@ MonoBehaviour:
   mixGroups: 0
   aiGroups:
   - aiPrefab: {fileID: 3878116550320104922, guid: 5e6a9645254ef16449a65529c2ca3d4d, type: 3}
-    aiCount: 3
-    spawnRate: 0.82859844
+    aiCount: 2
+    spawnRate: 1.25
   - aiPrefab: {fileID: 3878116550320104922, guid: 5e6a9645254ef16449a65529c2ca3d4d, type: 3}
-    aiCount: 3
-    spawnRate: 0.8285984
+    aiCount: 2
+    spawnRate: 1.25
   - aiPrefab: {fileID: 3878116550320104922, guid: 21bad21ced17788489fd390f505f3ba1, type: 3}
-    aiCount: 3
-    spawnRate: 0.82859844
+    aiCount: 2
+    spawnRate: 1.25
   - aiPrefab: {fileID: 3878116550320104922, guid: 21bad21ced17788489fd390f505f3ba1, type: 3}
-    aiCount: 3
-    spawnRate: 0.82859844
+    aiCount: 2
+    spawnRate: 1.25
