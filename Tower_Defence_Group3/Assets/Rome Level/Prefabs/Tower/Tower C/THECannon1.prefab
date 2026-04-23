@@ -244,7 +244,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: c7955c9f1b49099439612327806ee283, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  maxDistance: 8
+  maxDistance: 6
   player: {fileID: 940536038404461013}
   projectile: {fileID: 6047399693969199944, guid: 30e6242f2908c8e4c9aec83e6946baf9, type: 3}
   shootPoint: {fileID: 5247014089444757926}
@@ -320,7 +320,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: c7955c9f1b49099439612327806ee283, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  maxDistance: 8
+  maxDistance: 6
   player: {fileID: 940536038404461013}
   projectile: {fileID: 6047399693969199944, guid: 30e6242f2908c8e4c9aec83e6946baf9, type: 3}
   shootPoint: {fileID: 5247014089444757926}

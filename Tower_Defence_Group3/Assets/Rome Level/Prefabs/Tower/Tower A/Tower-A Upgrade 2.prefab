@@ -694,7 +694,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   poisonDamage: 3
-  slowmovementSpeed: 0.7
+  slowmovementSpeed: 1
   splashDamage: 15
   splashDamageRadius: 5
   explosionEffectPrefab: {fileID: 0}

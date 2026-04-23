@@ -27,7 +27,7 @@ Transform:
   serializedVersion: 2
   m_LocalRotation: {x: 0.7071068, y: -0, z: -0, w: 0.7071068}
   m_LocalPosition: {x: 1, y: 0.5, z: 1}
-  m_LocalScale: {x: 16, y: 16, z: 1}
+  m_LocalScale: {x: 12, y: 12, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
   m_Father: {fileID: 9049250471818757686}
@@ -247,7 +247,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: c7955c9f1b49099439612327806ee283, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  maxDistance: 8
+  maxDistance: 6
   player: {fileID: 9049250471818757686}
   projectile: {fileID: 6047399693969199944, guid: 30e6242f2908c8e4c9aec83e6946baf9, type: 3}
   shootPoint: {fileID: 7935512797692950287}
@@ -301,7 +301,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: c7955c9f1b49099439612327806ee283, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  maxDistance: 8
+  maxDistance: 6
   player: {fileID: 9049250471818757686}
   projectile: {fileID: 6047399693969199944, guid: 30e6242f2908c8e4c9aec83e6946baf9, type: 3}
   shootPoint: {fileID: 7935512797692950287}
