@@ -11,7 +11,7 @@ GameObject:
   - component: {fileID: 6269453898115996241}
   - component: {fileID: 259941400741608019}
   - component: {fileID: 9141239313512325089}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: polySurface5
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -96,7 +96,7 @@ GameObject:
   m_Component:
   - component: {fileID: 6666511763601581374}
   - component: {fileID: 2226703161879982637}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: Road_Corner
   m_TagString: Untagged
   m_Icon: {fileID: 0}
