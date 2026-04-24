@@ -38,7 +38,7 @@ MonoBehaviour:
   - <Name>k__BackingField: Tree
     <ID>k__BackingField: 2
     <Size>k__BackingField: {x: 1, y: 1}
-    <Prefab>k__BackingField: {fileID: 3619832548725922811, guid: 10b11259563ee1345927c24d0b6ac2fe, type: 3}
+    <Prefab>k__BackingField: {fileID: 3619832548725922811, guid: 8e9d5b8968553bc44bc77ca6269cb245, type: 3}
     <Cost>k__BackingField: 50
     <Damage>k__BackingField: 10
     <Upgrade>k__BackingField: 1
