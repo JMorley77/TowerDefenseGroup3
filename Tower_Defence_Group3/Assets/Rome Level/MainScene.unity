@@ -11177,8 +11177,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   centerOfGrid: {fileID: 391965532}
   distance: 40
-  xSpeed: 120
-  ySpeed: 120
+  xSpeed: 220
+  ySpeed: 220
   yMinLimit: 10
   yMaxLimit: 80
   zoomSpeed: 12
