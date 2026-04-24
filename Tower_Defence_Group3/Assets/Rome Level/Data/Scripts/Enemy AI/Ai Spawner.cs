@@ -101,9 +101,9 @@ public class AiSpawner : MonoBehaviour
             Instantiate(group.aiPrefab, spawnPoint.position, Quaternion.identity);
             spawned = 1;
         }
-        else if (currentWave == 10)
+        else if (currentWave == 9)
         {
-            SceneManager.LoadScene("Dino Level");
+            SceneManager.LoadScene("Stone Age Scene");
         }
         else
         {
