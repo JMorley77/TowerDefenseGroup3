@@ -101,12 +101,17 @@ public class AiSpawner : MonoBehaviour
             Instantiate(group.aiPrefab, spawnPoint.position, Quaternion.identity);
             spawned = 1;
         }
-        else if (currentWave == 9)
+        else if (currentWave == 9 && SceneManager.GetActiveScene().name == "MainScene")
         {
             SceneManager.LoadScene("Stone Age Scene");
         }
-        else
+        else if (currentWave == 9 && SceneManager.GetActiveScene().name == "Stone Age Scene")
         {
+            SceneManager.LoadScene("Modern Day Scene");
+        }
+        else if (currentWave == 9 && SceneManager.GetActiveScene().name == "Modern Day Scene")
+        {
+            SceneManager.LoadScene("WinScene");
             return;
         }
     }
