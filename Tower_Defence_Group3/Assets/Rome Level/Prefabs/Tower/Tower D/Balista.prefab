@@ -1278,7 +1278,7 @@ MonoBehaviour:
   projectile: {fileID: 1701766291348420743, guid: 995b01fb09d69c2468e586ea75c37461, type: 3}
   shootPoint: {fileID: 7139543443189785931}
   projectileSpeed: 50
-  fireRate: 1.8
+  fireRate: 1.5
   secsToDestroy: 0.5
   damage: 10
   damageIncrease: 5

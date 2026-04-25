@@ -213,7 +213,7 @@ MonoBehaviour:
   projectile: {fileID: 1701766291348420743, guid: 995b01fb09d69c2468e586ea75c37461, type: 3}
   shootPoint: {fileID: 7336414202455570767}
   projectileSpeed: 50
-  fireRate: 2
+  fireRate: 1.3
   secsToDestroy: 0.5
   damage: 10
   damageIncrease: 5
@@ -508,7 +508,7 @@ MonoBehaviour:
   projectile: {fileID: 1701766291348420743, guid: 995b01fb09d69c2468e586ea75c37461, type: 3}
   shootPoint: {fileID: 7719755315071677162}
   projectileSpeed: 50
-  fireRate: 2
+  fireRate: 1.3
   secsToDestroy: 0.5
   damage: 10
   damageIncrease: 5
@@ -623,7 +623,7 @@ PrefabInstance:
       objectReference: {fileID: 3211661303792501572}
     - target: {fileID: 7491987970644980992, guid: 3d5e85e11a8884145b428a606c31982f, type: 3}
       propertyPath: fireRate
-      value: 2
+      value: 1.3
       objectReference: {fileID: 0}
     - target: {fileID: 7491987970644980992, guid: 3d5e85e11a8884145b428a606c31982f, type: 3}
       propertyPath: projectile

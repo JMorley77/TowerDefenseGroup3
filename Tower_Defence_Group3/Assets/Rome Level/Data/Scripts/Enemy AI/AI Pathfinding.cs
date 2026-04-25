@@ -47,20 +47,14 @@ public class AiPathfinding : MonoBehaviour
         // When the player reaches the last node, player takes damage
         if (reachedEnd)
         {
-            timer += Time.deltaTime;
+            PlayerHealth playerHealth = FindFirstObjectByType<PlayerHealth>();
 
-            if (timer >= damageInterval)
+            if (playerHealth != null)
             {
-                PlayerHealth playerHealth = FindFirstObjectByType<PlayerHealth>();
-
-                if (playerHealth != null)
-                {
-                    playerHealth.TakeDamage(AIController.damage);
-                    Destroy(gameObject);
-                }
-
-                timer = 0f;
+                playerHealth.TakeDamage(AIController.damage);
             }
+
+            Destroy(gameObject);
         }
 
         WayPoints();

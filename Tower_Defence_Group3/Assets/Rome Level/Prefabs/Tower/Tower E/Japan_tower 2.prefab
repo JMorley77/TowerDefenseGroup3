@@ -412,7 +412,7 @@ MeshRenderer:
   m_RenderingLayerMask: 1
   m_RendererPriority: 0
   m_Materials:
-  - {fileID: 2100000, guid: 25a8c4dcd0391374da39efb71df86688, type: 2}
+  - {fileID: 2100000, guid: 1676652a1a499234a9364ea6aec21874, type: 2}
   m_StaticBatchInfo:
     firstSubMesh: 0
     subMeshCount: 0
@@ -1252,8 +1252,8 @@ MonoBehaviour:
   player: {fileID: 3210952397909568880}
   projectile: {fileID: 6047399693969199944, guid: 09cd497bc051fb64dac2d43f535fb2f7, type: 3}
   shootPoint: {fileID: 5463227709398049341}
-  projectileSpeed: 15
-  fireRate: 2.2
+  projectileSpeed: 20
+  fireRate: 1.8
   secsToDestroy: 5
   damage: 10
   damageIncrease: 5
@@ -1308,8 +1308,8 @@ MonoBehaviour:
   player: {fileID: 468323656611489562}
   projectile: {fileID: 6047399693969199944, guid: 09cd497bc051fb64dac2d43f535fb2f7, type: 3}
   shootPoint: {fileID: 1051304170182379730}
-  projectileSpeed: 15
-  fireRate: 2.2
+  projectileSpeed: 20
+  fireRate: 1.8
   secsToDestroy: 5
   damage: 10
   damageIncrease: 5
@@ -1935,8 +1935,8 @@ MonoBehaviour:
   player: {fileID: 170577659557150511}
   projectile: {fileID: 6047399693969199944, guid: 09cd497bc051fb64dac2d43f535fb2f7, type: 3}
   shootPoint: {fileID: 8798263969461458766}
-  projectileSpeed: 15
-  fireRate: 2.2
+  projectileSpeed: 20
+  fireRate: 1.8
   secsToDestroy: 5
   damage: 10
   damageIncrease: 5
