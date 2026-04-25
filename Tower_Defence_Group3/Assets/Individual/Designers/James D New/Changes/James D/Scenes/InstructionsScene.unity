@@ -896,7 +896,7 @@ MonoBehaviour:
     wave' and the enemies will gradually go around the path\n\n5. Use your money
     wisely and stop the enemies from reaching the end of the path and taking away
     your health to win! \n\n6. Press escape to pause the game and to bring up the
-    settings \n"
+    settings, Hold the middle mouse button and move your mouse rotate the camera\n"
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
   m_sharedMaterial: {fileID: 2180264, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
