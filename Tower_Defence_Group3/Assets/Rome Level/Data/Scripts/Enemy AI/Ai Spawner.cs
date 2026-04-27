@@ -103,11 +103,11 @@ public class AiSpawner : MonoBehaviour
         }
         else if (currentWave == 9 && SceneManager.GetActiveScene().name == "MainScene")
         {
-            SceneManager.LoadScene("Stone Age Scene");
+            SceneManager.LoadScene("Modern Day Scene");
         }
         else if (currentWave == 9 && SceneManager.GetActiveScene().name == "Stone Age Scene")
         {
-            SceneManager.LoadScene("Modern Day Scene");
+            SceneManager.LoadScene("MainScene");
         }
         else if (currentWave == 9 && SceneManager.GetActiveScene().name == "Modern Day Scene")
         {
