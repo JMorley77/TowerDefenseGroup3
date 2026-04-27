@@ -1361,12 +1361,12 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: c7955c9f1b49099439612327806ee283, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  maxDistance: 6
+  maxDistance: 10
   player: {fileID: 8069756628902383294}
   projectile: {fileID: 1701766291348420743, guid: 995b01fb09d69c2468e586ea75c37461, type: 3}
   shootPoint: {fileID: 7139543443189785931}
   projectileSpeed: 50
-  fireRate: 1.8
+  fireRate: 1.5
   secsToDestroy: 0.5
   damage: 10
   damageIncrease: 5

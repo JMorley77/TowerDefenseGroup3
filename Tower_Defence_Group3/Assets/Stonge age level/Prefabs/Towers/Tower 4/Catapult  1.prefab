@@ -47,12 +47,12 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: c7955c9f1b49099439612327806ee283, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  maxDistance: 8
+  maxDistance: 6
   player: {fileID: 339209335332148540}
   projectile: {fileID: 1701766291348420743, guid: 995b01fb09d69c2468e586ea75c37461, type: 3}
   shootPoint: {fileID: 5777906973736425123}
   projectileSpeed: 60
-  fireRate: 1
+  fireRate: 1.8
   secsToDestroy: 5
   damage: 10
   damageIncrease: 5
@@ -101,12 +101,12 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: c7955c9f1b49099439612327806ee283, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  maxDistance: 8
+  maxDistance: 6
   player: {fileID: 339209335332148540}
   projectile: {fileID: 1701766291348420743, guid: 995b01fb09d69c2468e586ea75c37461, type: 3}
   shootPoint: {fileID: 5777906973736425123}
   projectileSpeed: 60
-  fireRate: 1
+  fireRate: 1.8
   secsToDestroy: 5
   damage: 10
   damageIncrease: 5

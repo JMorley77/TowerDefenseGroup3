@@ -19,8 +19,8 @@ MonoBehaviour:
     <Prefab>k__BackingField: {fileID: 3619832548725922811, guid: 10b11259563ee1345927c24d0b6ac2fe, type: 3}
     <Cost>k__BackingField: 50
     <Damage>k__BackingField: 10
-    <Upgrade>k__BackingField: 1
-    Ability: 0
+    <Upgrade>k__BackingField: 100
+    Ability: 2
     <UpgradePrefabs>k__BackingField:
     - {fileID: 3619832548725922811, guid: 88d360456de08d143aa2f7a3516c938f, type: 3}
     - {fileID: 3619832548725922811, guid: 2328a6e50ea42f445a064502063e775c, type: 3}
@@ -28,10 +28,10 @@ MonoBehaviour:
     <ID>k__BackingField: 1
     <Size>k__BackingField: {x: 1, y: 1}
     <Prefab>k__BackingField: {fileID: 3484894616514078364, guid: e1bbae4ea90fcaa4da6f8feac1480462, type: 3}
-    <Cost>k__BackingField: 50
+    <Cost>k__BackingField: 90
     <Damage>k__BackingField: 10
-    <Upgrade>k__BackingField: 1
-    Ability: 0
+    <Upgrade>k__BackingField: 140
+    Ability: 1
     <UpgradePrefabs>k__BackingField:
     - {fileID: 3484894616514078364, guid: 0b0f4dd32cfe21b428e8b6a43a857785, type: 3}
     - {fileID: 3484894616514078364, guid: ce3b7b5a70df82d458e628f6dfe3f004, type: 3}
@@ -39,10 +39,10 @@ MonoBehaviour:
     <ID>k__BackingField: 2
     <Size>k__BackingField: {x: 1, y: 1}
     <Prefab>k__BackingField: {fileID: 3619832548725922811, guid: 8e9d5b8968553bc44bc77ca6269cb245, type: 3}
-    <Cost>k__BackingField: 50
+    <Cost>k__BackingField: 120
     <Damage>k__BackingField: 10
-    <Upgrade>k__BackingField: 1
-    Ability: 0
+    <Upgrade>k__BackingField: 180
+    Ability: 2
     <UpgradePrefabs>k__BackingField:
     - {fileID: 3619832548725922811, guid: 5dec0efac8b99864ba9210a67564ee07, type: 3}
     - {fileID: 3619832548725922811, guid: 7673e46025be84e4ab4780453b1bfe1f, type: 3}
@@ -50,10 +50,10 @@ MonoBehaviour:
     <ID>k__BackingField: 3
     <Size>k__BackingField: {x: 1, y: 1}
     <Prefab>k__BackingField: {fileID: 3484894616514078364, guid: da67ada1c9a4f1745aee18b4e97ed197, type: 3}
-    <Cost>k__BackingField: 50
+    <Cost>k__BackingField: 150
     <Damage>k__BackingField: 10
-    <Upgrade>k__BackingField: 1
-    Ability: 0
+    <Upgrade>k__BackingField: 200
+    Ability: 3
     <UpgradePrefabs>k__BackingField:
     - {fileID: 3484894616514078364, guid: 0c8c77751f306f24e8f6a98934698191, type: 3}
     - {fileID: 3484894616514078364, guid: ed926dc4c28d9574483f21e5116be787, type: 3}
@@ -61,9 +61,9 @@ MonoBehaviour:
     <ID>k__BackingField: 4
     <Size>k__BackingField: {x: 1, y: 1}
     <Prefab>k__BackingField: {fileID: 9014134371485917576, guid: a14a75aeee0ba8c4e8bb0e877d8b6145, type: 3}
-    <Cost>k__BackingField: 50
+    <Cost>k__BackingField: 150
     <Damage>k__BackingField: 10
-    <Upgrade>k__BackingField: 1
+    <Upgrade>k__BackingField: 200
     Ability: 0
     <UpgradePrefabs>k__BackingField:
     - {fileID: 9213660029216005864, guid: b7648de8a116a1f4f9c3a78521833e0f, type: 3}

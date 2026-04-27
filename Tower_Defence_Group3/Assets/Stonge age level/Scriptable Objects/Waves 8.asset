@@ -1,0 +1,40 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f427e3a46fcc04c4b8f00bd571556ba6, type: 3}
+  m_Name: Waves 8
+  m_EditorClassIdentifier: 
+  mixGroups: 0
+  aiGroups:
+  - aiPrefab: {fileID: 5078134867658338762, guid: 830673139f0420b4499da36e3e8429cc, type: 3}
+    aiCount: 8
+    spawnRate: 0.4
+  - aiPrefab: {fileID: 8385635963091098835, guid: c53350086fe02214aaf7b8112ca0e3fd, type: 3}
+    aiCount: 8
+    spawnRate: 0.4
+  - aiPrefab: {fileID: 5078134867658338762, guid: 830673139f0420b4499da36e3e8429cc, type: 3}
+    aiCount: 8
+    spawnRate: 0.4
+  - aiPrefab: {fileID: 8385635963091098835, guid: c53350086fe02214aaf7b8112ca0e3fd, type: 3}
+    aiCount: 8
+    spawnRate: 0.4
+  - aiPrefab: {fileID: 8170759356412190349, guid: 346d57a7f25f76847ab37ac7fc9f2613, type: 3}
+    aiCount: 8
+    spawnRate: 0.4
+  - aiPrefab: {fileID: 8170759356412190349, guid: 346d57a7f25f76847ab37ac7fc9f2613, type: 3}
+    aiCount: 8
+    spawnRate: 0.4
+  - aiPrefab: {fileID: 8170759356412190349, guid: 346d57a7f25f76847ab37ac7fc9f2613, type: 3}
+    aiCount: 8
+    spawnRate: 0.4
+  - aiPrefab: {fileID: 8170759356412190349, guid: 346d57a7f25f76847ab37ac7fc9f2613, type: 3}
+    aiCount: 8
+    spawnRate: 0.4

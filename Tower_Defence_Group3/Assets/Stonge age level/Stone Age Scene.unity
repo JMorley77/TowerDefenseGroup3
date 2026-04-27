@@ -17952,16 +17952,16 @@ MonoBehaviour:
   startText: {fileID: 759224982}
   spawnPoint: {fileID: 1530972062}
   wave:
-  - {fileID: 11400000, guid: ea847e927966e9a4191f91f0ec2f30b1, type: 2}
-  - {fileID: 11400000, guid: e356690f54dbe734d9cb660316f54624, type: 2}
-  - {fileID: 11400000, guid: 02e0fe86cb8522744ab0218ef20d6d27, type: 2}
-  - {fileID: 11400000, guid: 4e194125e79034741967ab7499225908, type: 2}
-  - {fileID: 11400000, guid: 336b09ae7cfbad74395d86ac5c28e9a4, type: 2}
-  - {fileID: 11400000, guid: b97173933656f0748a455b5438f09c50, type: 2}
-  - {fileID: 11400000, guid: 7a11e9cfb900e714497b23a5eb8e358e, type: 2}
-  - {fileID: 11400000, guid: cb95263d347616343b22eabc854bdc47, type: 2}
-  - {fileID: 11400000, guid: 7ab14f4005e601b4f99e858854de3f65, type: 2}
-  - {fileID: 11400000, guid: b28b9e18aba413b42befe165162c1d7d, type: 2}
+  - {fileID: 11400000, guid: 3f5a63a666a724141b542e4029dcb5f3, type: 2}
+  - {fileID: 11400000, guid: 3c5c94b4a21e13243b1865e2e1b45f75, type: 2}
+  - {fileID: 11400000, guid: 927ddd4d227de634fae3fd66f950d2d4, type: 2}
+  - {fileID: 11400000, guid: cae3aeeb62f58c64d93947a397bfe4d3, type: 2}
+  - {fileID: 11400000, guid: 6b30856b0468bbf48acc993cd5928263, type: 2}
+  - {fileID: 11400000, guid: c032c633522bc154e879f360fa2c63ef, type: 2}
+  - {fileID: 11400000, guid: 66a742cc4c23f4e489d2bf9c8cf8e511, type: 2}
+  - {fileID: 11400000, guid: ad4d4af8c25389a479c93ebb762338d0, type: 2}
+  - {fileID: 11400000, guid: de886b52a3cc6c348ba6541f1ce16804, type: 2}
+  - {fileID: 11400000, guid: c7744bf0fe32f564db1091f37065eff2, type: 2}
   currentGroup: 0
   currentWave: 0
   button: {fileID: 1224829783}
