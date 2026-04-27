@@ -560,10 +560,10 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   healthBar: {fileID: 1076061092500746728}
   healthBar2: {fileID: 1519715525702864602}
-  buff: 1
-  health: 140
+  buff: 3
+  health: 220
   damage: 5
-  value: 6
+  value: 2
   commanderRadius: 10
 --- !u!114 &3269877012211571137
 MonoBehaviour:

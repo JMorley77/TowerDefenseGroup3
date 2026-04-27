@@ -511,7 +511,7 @@ MonoBehaviour:
   buff: 1
   health: 70
   damage: 5
-  value: 8
+  value: 4
   commanderRadius: 15
 --- !u!114 &8469364182803568249
 MonoBehaviour:
