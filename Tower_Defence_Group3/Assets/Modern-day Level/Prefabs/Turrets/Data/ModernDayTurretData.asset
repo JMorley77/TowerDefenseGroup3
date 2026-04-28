@@ -13,7 +13,7 @@ MonoBehaviour:
   m_Name: ModernDayTurretData
   m_EditorClassIdentifier: 
   objectsData:
-  - <Name>k__BackingField: Turret 1
+  - <Name>k__BackingField: Sentry Turret
     <ID>k__BackingField: 0
     <Size>k__BackingField: {x: 1, y: 1}
     <Prefab>k__BackingField: {fileID: 2024129408164881570, guid: 4b4ba0d3e49e1ae44811bc02f6439aee, type: 3}
@@ -24,7 +24,7 @@ MonoBehaviour:
     <UpgradePrefabs>k__BackingField:
     - {fileID: 8744657256864555466, guid: f2da06128f51ee747bf82e4bbf2d774e, type: 3}
     - {fileID: 8655343798362898375, guid: b02d676e5c0a2fe4b9654410015cfa3b, type: 3}
-  - <Name>k__BackingField: Turret 2
+  - <Name>k__BackingField: Sentry
     <ID>k__BackingField: 1
     <Size>k__BackingField: {x: 1, y: 1}
     <Prefab>k__BackingField: {fileID: 1045800421623065673, guid: c71ae973bd7bced4a9abfe5892cda859, type: 3}
@@ -35,7 +35,7 @@ MonoBehaviour:
     <UpgradePrefabs>k__BackingField:
     - {fileID: 3982187625907900767, guid: 774ed590df7a5dc47a6177d27b519024, type: 3}
     - {fileID: 2721432993043863790, guid: 2571b44d984a8404e8f6d5900472c10f, type: 3}
-  - <Name>k__BackingField: Turret 3
+  - <Name>k__BackingField: Missile Launcher
     <ID>k__BackingField: 2
     <Size>k__BackingField: {x: 1, y: 1}
     <Prefab>k__BackingField: {fileID: 5076999965322552693, guid: 05976a90685e44a4a849a367d206b1fd, type: 3}
@@ -46,7 +46,7 @@ MonoBehaviour:
     <UpgradePrefabs>k__BackingField:
     - {fileID: 6998148967359920748, guid: 3372d7bb90a0d15449d76c3cb2772f0e, type: 3}
     - {fileID: 1410172954030199226, guid: 41e79646f166a6a42b2a05da71f2e159, type: 3}
-  - <Name>k__BackingField: Turret 4
+  - <Name>k__BackingField: Machine Turret
     <ID>k__BackingField: 3
     <Size>k__BackingField: {x: 1, y: 1}
     <Prefab>k__BackingField: {fileID: 208822650574813260, guid: 21b73d56abf6a7541a104e873ff30ec9, type: 3}
@@ -57,7 +57,7 @@ MonoBehaviour:
     <UpgradePrefabs>k__BackingField:
     - {fileID: 2356385418779778608, guid: f8d23dc6e9eb7e3479baf35aae9bb975, type: 3}
     - {fileID: 9151614379978094572, guid: 811a36c4b113f694bbf9d365bd2a05ea, type: 3}
-  - <Name>k__BackingField: Turret 5
+  - <Name>k__BackingField: Homing Launcher
     <ID>k__BackingField: 4
     <Size>k__BackingField: {x: 1, y: 1}
     <Prefab>k__BackingField: {fileID: 1795137047195874219, guid: dad72e8a94c524948ae8af0eb53d5ed9, type: 3}
