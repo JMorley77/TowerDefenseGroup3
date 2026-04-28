@@ -182,12 +182,12 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: c7955c9f1b49099439612327806ee283, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  maxDistance: 8
+  maxDistance: 6
   player: {fileID: 3482312948856797681}
   projectile: {fileID: 6047399693969199944, guid: 30e6242f2908c8e4c9aec83e6946baf9, type: 3}
   shootPoint: {fileID: 4591899506487012885}
   projectileSpeed: 50
-  fireRate: 0.3
+  fireRate: 1.8
   secsToDestroy: 0.5
   damage: 10
   damageIncrease: 5
@@ -205,11 +205,15 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   poisonDamage: 3
+  poisonRadius: 10
+  poisonTickRate: 1
   slowmovementSpeed: 0.7
+  slowmovementRadius: 10
   splashDamage: 15
   splashDamageRadius: 5
   explosionEffectPrefab: {fileID: 499873257356596338, guid: 7745a3c8550ad714885a853de7b6fa9e, type: 3}
   towerData: {fileID: 11400000, guid: 58acc1ea8e6e57046b4544c1661b9fb3, type: 2}
+  towerID: -1
 --- !u!1 &3672234586565109082
 GameObject:
   m_ObjectHideFlags: 0
@@ -255,12 +259,12 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: c7955c9f1b49099439612327806ee283, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  maxDistance: 8
+  maxDistance: 6
   player: {fileID: 212914382288386381}
   projectile: {fileID: 6047399693969199944, guid: 30e6242f2908c8e4c9aec83e6946baf9, type: 3}
   shootPoint: {fileID: 4591899506487012885}
   projectileSpeed: 50
-  fireRate: 0.3
+  fireRate: 1.8
   secsToDestroy: 0.5
   damage: 10
   damageIncrease: 5
@@ -278,11 +282,15 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   poisonDamage: 3
+  poisonRadius: 10
+  poisonTickRate: 1
   slowmovementSpeed: 0.7
+  slowmovementRadius: 10
   splashDamage: 15
   splashDamageRadius: 5
   explosionEffectPrefab: {fileID: 499873257356596338, guid: 7745a3c8550ad714885a853de7b6fa9e, type: 3}
   towerData: {fileID: 11400000, guid: 58acc1ea8e6e57046b4544c1661b9fb3, type: 2}
+  towerID: -1
 --- !u!1 &3861522389134432093
 GameObject:
   m_ObjectHideFlags: 0

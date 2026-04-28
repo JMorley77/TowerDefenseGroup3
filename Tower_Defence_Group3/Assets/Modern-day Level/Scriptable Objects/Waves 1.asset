@@ -23,6 +23,6 @@ MonoBehaviour:
   - aiPrefab: {fileID: 9126160360358429927, guid: b3bf2978a88c7fa4782cff6f6b31b9df, type: 3}
     aiCount: 3
     spawnRate: 1.25
-  - aiPrefab: {fileID: 9126160360358429927, guid: b3bf2978a88c7fa4782cff6f6b31b9df, type: 3}
+  - aiPrefab: {fileID: 1938358839943363331, guid: b92a1b2cdc236ea41b2b74a647ef15cc, type: 3}
     aiCount: 3
     spawnRate: 1.25
