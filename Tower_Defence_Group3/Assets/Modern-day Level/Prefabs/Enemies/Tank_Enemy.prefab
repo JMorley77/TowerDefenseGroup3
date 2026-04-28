@@ -189,9 +189,6 @@ GameObject:
   - component: {fileID: 7120842386874067158}
   - component: {fileID: 96068863746457298}
   - component: {fileID: 1239707867464266644}
-  - component: {fileID: 1330944614899886112}
-  - component: {fileID: 7586798961184017819}
-  - component: {fileID: 3908049785301045981}
   - component: {fileID: 6183336275064492387}
   m_Layer: 9
   m_Name: Tank_Enemy
@@ -293,60 +290,6 @@ CapsuleCollider:
   m_Height: 2
   m_Direction: 1
   m_Center: {x: 0, y: 0, z: 0}
---- !u!114 &1330944614899886112
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 1938358839943363331}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 58750aa3d7e4ff34785f65dc4b221154, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  speed: 5
-  originalSpeed: 5
-  aiPathNodes:
-  - {fileID: 7107258220414832062, guid: e60ccb31af678fe4b999607fbb2d403a, type: 3}
-  - {fileID: 7057691368588551308, guid: 3d8ccddbd449d7248b5688202b2ba9f7, type: 3}
-  - {fileID: 1954062619271958626, guid: 96590411c92824640801eb764b775bd1, type: 3}
-  - {fileID: 438939260889782502, guid: cb18ffdad7ec4d9479f13e2f6df3ffbe, type: 3}
-  - {fileID: 8317966760074692414, guid: 3166f745d72f04342aaae9828490e032, type: 3}
-  - {fileID: 3591319220561863987, guid: 6cc949809ae010548892608fe9eae8ac, type: 3}
-  damageInterval: 3
---- !u!114 &7586798961184017819
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 1938358839943363331}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 8a83e03faa315864abead4346fc4993a, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  healthBar: {fileID: 3658733918647575833}
-  healthBar2: {fileID: 5391529340833869851}
-  buff: 0
-  health: 60
-  damage: 5
-  value: 5
-  commanderRadius: 10
---- !u!114 &3908049785301045981
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 1938358839943363331}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: efc82db53f9a457448c1cf6647cfb291, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  healthBarTransform: {fileID: 2108356065549509353}
 --- !u!54 &6183336275064492387
 Rigidbody:
   m_ObjectHideFlags: 0

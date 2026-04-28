@@ -761,9 +761,6 @@ GameObject:
   - component: {fileID: 904141275063542022}
   - component: {fileID: 5011669073945909983}
   - component: {fileID: 2956433217119649327}
-  - component: {fileID: 8144651089196919902}
-  - component: {fileID: 8962964220601443421}
-  - component: {fileID: 5358824186211106173}
   - component: {fileID: 7685907340055366597}
   m_Layer: 9
   m_Name: Helicopter_Enemy
@@ -865,60 +862,6 @@ CapsuleCollider:
   m_Height: 2
   m_Direction: 1
   m_Center: {x: 0, y: 0, z: 0}
---- !u!114 &8144651089196919902
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 8265456492163131291}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 58750aa3d7e4ff34785f65dc4b221154, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  speed: 5
-  originalSpeed: 5
-  aiPathNodes:
-  - {fileID: 7107258220414832062, guid: e60ccb31af678fe4b999607fbb2d403a, type: 3}
-  - {fileID: 7057691368588551308, guid: 3d8ccddbd449d7248b5688202b2ba9f7, type: 3}
-  - {fileID: 1954062619271958626, guid: 96590411c92824640801eb764b775bd1, type: 3}
-  - {fileID: 438939260889782502, guid: cb18ffdad7ec4d9479f13e2f6df3ffbe, type: 3}
-  - {fileID: 8317966760074692414, guid: 3166f745d72f04342aaae9828490e032, type: 3}
-  - {fileID: 3591319220561863987, guid: 6cc949809ae010548892608fe9eae8ac, type: 3}
-  damageInterval: 3
---- !u!114 &8962964220601443421
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 8265456492163131291}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 8a83e03faa315864abead4346fc4993a, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  healthBar: {fileID: 6914906279750438294}
-  healthBar2: {fileID: 7774133126066980014}
-  buff: 0
-  health: 60
-  damage: 5
-  value: 5
-  commanderRadius: 10
---- !u!114 &5358824186211106173
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 8265456492163131291}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: efc82db53f9a457448c1cf6647cfb291, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  healthBarTransform: {fileID: 230036367553915931}
 --- !u!54 &7685907340055366597
 Rigidbody:
   m_ObjectHideFlags: 0
