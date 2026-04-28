@@ -114,14 +114,14 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   maxDistance: 6
   player: {fileID: 2893445459086835302}
-  projectile: {fileID: 6047399693969199944, guid: 30e6242f2908c8e4c9aec83e6946baf9, type: 3}
+  projectile: {fileID: 1701766291348420743, guid: 995b01fb09d69c2468e586ea75c37461, type: 3}
   shootPoint: {fileID: 5399294684750303078}
   projectileSpeed: 50
   fireRate: 2
   secsToDestroy: 0.5
   damage: 10
   damageIncrease: 5
-  isCannon: 1
+  isCannon: 0
   ShootSound: {fileID: 8300000, guid: 0e6808557c0e9684d9d859437ee5612f, type: 3}
   volume: 1
 --- !u!114 &6391986519078307297
@@ -145,7 +145,7 @@ MonoBehaviour:
   splashDamageRadius: 5
   explosionEffectPrefab: {fileID: 499873257356596338, guid: 7745a3c8550ad714885a853de7b6fa9e, type: 3}
   towerData: {fileID: 11400000, guid: 58acc1ea8e6e57046b4544c1661b9fb3, type: 2}
-  towerID: -1
+  towerID: 3
 --- !u!1 &3360677936365109760
 GameObject:
   m_ObjectHideFlags: 0
@@ -368,7 +368,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   maxDistance: 6
   player: {fileID: 4204803552674686306}
-  projectile: {fileID: 6047399693969199944, guid: 30e6242f2908c8e4c9aec83e6946baf9, type: 3}
+  projectile: {fileID: 1701766291348420743, guid: 995b01fb09d69c2468e586ea75c37461, type: 3}
   shootPoint: {fileID: 5399294684750303078}
   projectileSpeed: 50
   fireRate: 2
@@ -399,7 +399,7 @@ MonoBehaviour:
   splashDamageRadius: 5
   explosionEffectPrefab: {fileID: 499873257356596338, guid: 7745a3c8550ad714885a853de7b6fa9e, type: 3}
   towerData: {fileID: 11400000, guid: 58acc1ea8e6e57046b4544c1661b9fb3, type: 2}
-  towerID: -1
+  towerID: 3
 --- !u!1 &8337347128760068248
 GameObject:
   m_ObjectHideFlags: 0
@@ -447,7 +447,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   maxDistance: 6
   player: {fileID: 7036671346507935075}
-  projectile: {fileID: 6047399693969199944, guid: 30e6242f2908c8e4c9aec83e6946baf9, type: 3}
+  projectile: {fileID: 1701766291348420743, guid: 995b01fb09d69c2468e586ea75c37461, type: 3}
   shootPoint: {fileID: 5399294684750303078}
   projectileSpeed: 50
   fireRate: 2
@@ -478,7 +478,7 @@ MonoBehaviour:
   splashDamageRadius: 5
   explosionEffectPrefab: {fileID: 499873257356596338, guid: 7745a3c8550ad714885a853de7b6fa9e, type: 3}
   towerData: {fileID: 11400000, guid: 58acc1ea8e6e57046b4544c1661b9fb3, type: 2}
-  towerID: -1
+  towerID: 3
 --- !u!1 &9151614379978094572
 GameObject:
   m_ObjectHideFlags: 0
